@@ -163,9 +163,3 @@ http://localhost:8080
 Static Pizza Ordering Website developed using HTML, CSS, Bootstrap, JavaScript, Docker, and Apache HTTP Server.
 
 ---
-
-# 📄 License
-
-This project is created for educational and learning purposes.
-
-You are free to modify and extend it for personal or academic use.
