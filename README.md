@@ -6,29 +6,6 @@ This project demonstrates a simple restaurant website with multiple pages includ
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-- Hero Banner
-- Featured Pizzas
-- Offers
-- Responsive Navigation
-
-### Menu Page
-- Veg Pizza
-- Non-Veg Pizza
-- Pizza Mania
-- Sides & Beverages
-
-### Other Pages
-- Login
-- Signup
-- Contact
-- Offers
-- Order
-
----
-
 # 🚀 Features
 
 - Responsive Design
